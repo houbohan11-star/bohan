@@ -1,0 +1,4 @@
+[
+  {"id": "video-001", "source": "../input/video.mp4", "language": "de", "interval": 2.0, "product": "product.json"},
+  {"id": "video-002", "source": "../input/another.mp4", "language": "de", "interval": 2.0}
+]
